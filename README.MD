@@ -1,6 +1,7 @@
 <h3> Monk's Drum Machine Pattern 2 MIDI Ulitity </h3>
 
 <h2> File Structure </h2> 
+<h3> Concept </h3> 
 
      1. Pattern_Repository
 
@@ -15,7 +16,8 @@
           1.1.A / - {Pattern} - # -  Break
       
 ---
-      
+<h3> Example </h3>
+
     1. Pattern_Repository
 
       -Pattern_Repository/AfroCuban-1
