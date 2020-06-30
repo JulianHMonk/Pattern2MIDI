@@ -1,11 +1,27 @@
-<h3> Monk's Drum Machine Pattern 2 MIDI Ulitity </h3>
+<h1> Monk's Drum Machine Pattern 2 MIDI Ulitity </h1>
 
-Utility for translating drum machine patterns from Microsoft Excell into Sonic-Pi for MIDI Passthrough to a drum machine.
+Utility for translating drum machine patterns from CSV into Sonic-Pi for MIDI pass through to a drum machine.
 
 Included is a Pattern Repository created from [260 Drum Machine Patterns.pdf](https://www.pdf-archive.com/2017/02/23/260-drum-machine-patterns/260-drum-machine-patterns.pdf)   By Renee-Pierre Bardet
 
-Included in the repository are CSV (Comma Separated Values) patterns which are designed to follow the format from the *260 Drum Machine Patterns* book.
-With a capital o - [ O ] signifiying *Note not Played* and a capital x - [ X ] signifying *Note Played*
+Included in the repository are CSV UTF-8 (Comma Separated Values) patterns which are designed to follow the format from the *260 Drum Machine Patterns* book.
+With a capital o - [ O ] signifiying *Note not Played* and a capital x - [ X ] signifying *Note Played* over a sixteen (16) beat measure with a time signature of 4/4. 
+
+| Sound | Short Hand |
+| ----------- | ----------- |
+| ACCENT | AC |
+| CYMBOL | CY |
+| CLOSED HAT | CH |
+| OPEN HAT | OH |
+| HIGHT TOM | HT |
+| MIDDLE TOM | MT |
+| SNARE DRUM | SD |
+| RIM SHOT | RS |
+| LOW TOM | LT |
+| CLAPS | CPS |
+| COW BELL | CB |
+| BASS DRUM | BD |
+
 
 <h2> File Structure </h2> 
 <h3> Concept </h3> 
