@@ -14,7 +14,7 @@ The format for the csv is as follows, a capital o - [ O ] signifiying *Note not 
 | Note Played | X |
 
 |                 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| --------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- |
+| --------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | ACCENT - AC     | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
 | CYMBOL - CY     | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
 | CLOSED HAT - CH | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
@@ -27,7 +27,7 @@ The format for the csv is as follows, a capital o - [ O ] signifiying *Note not 
 | CLAPS - CPS     | O | O | O | O | O | O | O | X | O | O  | O  | O  | O  | O  | O  | X  |
 | COW BELL - CB   | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
 | BASS DRUM - BD  | O | O | O | X | O | O | O | X | O | O  | O  | X  | O  | O  | O  | X  |
-|                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+|                 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 
 <h2> File Structure </h2> 
