@@ -11,7 +11,7 @@ The format for the csv is as follows, a capital o - [ O ] signifiying *Note not 
 | Result | Condition |
 | ----------- | ----------- |
 | Note Not Played | O |
-| Note Playd | X |
+| Note Played | X |
 
 | Sound | Short Hand |
 | ----------- | ----------- |
