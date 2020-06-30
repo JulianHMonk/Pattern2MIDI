@@ -13,20 +13,21 @@ The format for the csv is as follows, a capital o - [ O ] signifiying *Note not 
 | Note Not Played | O |
 | Note Played | X |
 
-| Sound | Short Hand |
-| ----------- | ----------- |
-| ACCENT | AC |
-| CYMBOL | CY |
-| CLOSED HAT | CH |
-| OPEN HAT | OH |
-| HIGHT TOM | HT |
-| MIDDLE TOM | MT |
-| SNARE DRUM | SD |
-| RIM SHOT | RS |
-| LOW TOM | LT |
-| CLAPS | CPS |
-| COW BELL | CB |
-| BASS DRUM | BD |
+|                 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| --------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- |
+| ACCENT - AC     | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| CYMBOL - CY     | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| CLOSED HAT - CH | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| OPEN HAT - OH   | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| HIGH TOM - HT   | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| MIDDLE TOM - MT | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| SNARE DRUM - SD | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| RIM SHOT - RS   | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| LOW TOM - LT    | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| CLAPS - CPS     | O | O | O | O | O | O | O | X | O | O  | O  | O  | O  | O  | O  | X  |
+| COW BELL - CB   | O | O | O | O | O | O | O | O | O | O  | O  | O  | O  | O  | O  | O  |
+| BASS DRUM - BD  | O | O | O | X | O | O | O | X | O | O  | O  | X  | O  | O  | O  | X  |
+|                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 
 
 <h2> File Structure </h2> 
