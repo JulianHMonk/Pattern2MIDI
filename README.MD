@@ -8,7 +8,7 @@ Included in the repository are CSV UTF-8 (Comma Separated Values) patterns which
 
 The format for the csv is as follows, a capital o - [ O ] signifiying *Note not Played* and a capital x - [ X ] signifying *Note Played* over a sixteen (16) beat measure with a time signature of 4/4. 
 
-| Sound | Short Hand |
+| Result | Condition |
 | ----------- | ----------- |
 | Note Not Played | O |
 | Note Playd | X |
