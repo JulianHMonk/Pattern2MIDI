@@ -13,7 +13,7 @@
       
         1.1.B Break
     
-          1.1.A / - {Pattern} - Break - #
+          1.1.B / - {Pattern} - Break - #
       
 ---
 <h3> Example </h3>
@@ -25,7 +25,11 @@
         --Pattern_Repository/AfroCuban/Original
 
           ---Pattern_Repository/AfroCuban/Original/AfroCuban-l.csv
+          ---Pattern_Repository/AfroCuban/Original/AfroCuban-2.csv
+          ---Pattern_Repository/AfroCuban/Original/AfroCuban-N.csv
 
         --Pattern_Repository/AfroCuban/Break
 
           ---Pattern_Repository/AfroCuban/Break/AfroCuban-Break-1.csv
+          ---Pattern_Repository/AfroCuban/Break/AfroCuban-Break-2.csv
+          ---Pattern_Repository/AfroCuban/Break/AfroCuban-Break-N.csv
