@@ -1,4 +1,4 @@
-<h1> Monk's Drum Machine Pattern 2 MIDI Ulitity </h1>
+<h1> Drum Machine Pattern2MIDI Tool </h1>
 
 Utility for translating drum machine patterns from CSV into Sonic-Pi for MIDI pass through to a drum machine.
 
