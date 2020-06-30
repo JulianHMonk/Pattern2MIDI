@@ -5,7 +5,9 @@ Utility for translating drum machine patterns from CSV into Sonic-Pi for MIDI pa
 Included is a Pattern Repository created from [260 Drum Machine Patterns.pdf](https://www.pdf-archive.com/2017/02/23/260-drum-machine-patterns/260-drum-machine-patterns.pdf)   By Renee-Pierre Bardet
 
 Included in the repository are CSV UTF-8 (Comma Separated Values) patterns which are designed to follow the format from the *260 Drum Machine Patterns* book.
+
 With a capital o - [ O ] signifiying *Note not Played* and a capital x - [ X ] signifying *Note Played* over a sixteen (16) beat measure with a time signature of 4/4. 
+
 See the SampleDrumPattern.csv file included in the root file for more information.
 
 | Sound | Short Hand |
